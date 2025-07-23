@@ -1,0 +1,11 @@
+{
+  "name": "zalopay-admin-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "lucide-react": "^0.268.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}

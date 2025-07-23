@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+Flask-Cors
+Flask-Limiter
+Werkzeug
+SQLAlchemy
+PyJWT
+psycopg2-binary
+python-dotenv
+gunicorn
